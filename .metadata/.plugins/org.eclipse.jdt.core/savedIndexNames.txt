@@ -17,7 +17,6 @@ INDEX VERSION 1.131+D:\ltts-workspace\rcp-demo\.metadata\.plugins\org.eclipse.jd
 1330774489.index
 3118213599.index
 1378015560.index
-123770353.index
 3862868720.index
 1481432206.index
 3816660623.index
